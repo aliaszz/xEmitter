@@ -1,0 +1,15 @@
+{
+  "name": "xemitterjs",
+  "version": "0.2.3",
+  "description": "xEmitter一个全局事件派发器，你可以在任何时间、任何地点调用他。",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+  },
+  "keywords": [
+    "base"
+  ],
+  "author": "TNFE",
+  "license": "ISC"
+}
