@@ -1,8 +1,13 @@
 {
   "name": "xemitterjs",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "xEmitter一个全局事件派发器，你可以在任何时间、任何地点调用他。",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md",
+    "package.json"
+  ],
   "scripts": {
   },
   "repository": {
